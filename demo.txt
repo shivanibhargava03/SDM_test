@@ -1,4 +1,4 @@
-class bubbleSort(){
+class InsertionSort(){
     
     void bsort(int arr[]){
       int n=arr.length();
